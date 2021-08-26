@@ -50,6 +50,10 @@ h1, #tribute-info{
     box-shadow: 3px 3px 5px rgba(255,255,255,0.55);
 }
 
+#image{
+    max-width: 90%;
+}
+
 #tribute-info{
     color: #aaa;
 }
