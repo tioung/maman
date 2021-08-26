@@ -11,10 +11,10 @@ html{
 }
 
 .container{
-    width: 90vh;
-    height: 90vh;
+    width: 90vmin;
+    height: 90vmin;
     border-radius: 50%;
-    margin: 5vh auto;
+    margin: 5vmin auto;
 }
 
 .flex{
